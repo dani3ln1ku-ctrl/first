@@ -7,3 +7,5 @@ Tunnnis õpetajaga koos tehtud skriptid.
 *```funktsioonid.py``` Katsetused funktsioonidega
 *```game.py``` Äraarvamise mäng
 *```listid.py```Kogu informatsioon listidest
+
+Õppimiseks asuta [Prokeõpikut](https://progeopik.cs.ut.ee/)
