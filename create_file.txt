@@ -1,0 +1,12 @@
+daniel ; 33
+siim ; 82
+liim ; 94
+reimpC:\Users\kasutaja\AppData\Local\Programs\Python\Python314\python.exe c:/Users/kasutaja/Documents/pythonapps/first/create_file.py ; 60
+sumaC:\Users\kasutaja\AppData\Local\Programs\Python\Python314\python.exe c:/Users/kasutaja/Documents/pythonapps/first/create_file.py ; 51
+suma ; 85
+laaa ; 116
+kaa ; 11
+ö ; 35
+s ; 101
+q ; 75
+n ; 122
