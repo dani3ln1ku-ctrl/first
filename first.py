@@ -63,7 +63,7 @@ print(name[::-1])	#Väljund: sjinvocoN leinaD
 
 print(name[7].title())# OK
 
-Kolm andmetüüpi
+# Kolm andmetüüpi
 print("------")
 print(type(name))
 print(type(age))

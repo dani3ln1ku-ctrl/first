@@ -50,4 +50,4 @@ print(introduce("Daniel", 16))
 print(introduce(age=99, name="Vanaema"))
 print(introduce(1234, 56))
 
-print(divison(numbers2=10, number1=100))
+
